@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Welcome to my portfolio
+## I'm Dafna Pundak
+### a junior web developer
