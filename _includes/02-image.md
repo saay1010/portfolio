@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![background photo](http://200.98.175.65/wp-content/uploads/LS-Fruit.jpg)
