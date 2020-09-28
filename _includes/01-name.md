@@ -1,3 +1,4 @@
-# Welcome to my portfolio
-## I'm Dafna Pundak
-### a junior web developer
+## Hi :wave:
+## I'm Dafna Pundak, 
+## web developer.
+### front-end developer, back-end developer.
