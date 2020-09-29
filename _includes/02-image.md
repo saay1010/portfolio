@@ -1,1 +1,1 @@
-![this is me](profilepic.jpg)
+![this is me](profilepic.png)
