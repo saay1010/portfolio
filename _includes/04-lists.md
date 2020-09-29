@@ -1,11 +1,12 @@
-My favorite coffee :coffee: places in TA:
-* Bakery
-  * Dizengoff St 260
-  * Shlomo Ibn Gabirol St 72
-* Fika :Swedish:
-  * Dizengoff St 267
+## **Skills:**
+* JS
+* React
+* Node.js
+
+### My favorite coffee :coffee: places in TA:
 * Mae
   * Montefiore St 3
-  * Shlomo Ibn Gabirol St 98
-* Origem :brazil:
+* Origem
   * Dizengoff St 203
+* Fika
+  * Dizengoff St 267
