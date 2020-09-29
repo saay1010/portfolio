@@ -1,2 +1,2 @@
-- [My Linkedin profile](https://www.linkedin.com/in/dafna-pundak-b7425219b/)
-- [My GitHub profile](https://github.com/DafnaPundak)
+- [**Linkedin**](https://www.linkedin.com/in/dafna-pundak-b7425219b/)
+
