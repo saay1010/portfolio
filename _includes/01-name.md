@@ -1,4 +1,4 @@
-## Hi there :wave:
+### Hi there :wave:
 ## I'm Dafna Pundak, 
-## A web developer.
+# A web developer.
 
