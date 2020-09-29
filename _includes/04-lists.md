@@ -1,9 +1,10 @@
 ## **Skills:**
-* JS
+* JS, HTML, CSS
 * React
 * Node.js
 
-### My favorite coffee :coffee: places in TA:
+
+### My favorite coffee :coffee: places in Tel-Aviv:
 * Mae
   * Montefiore St 3
 * Origem
