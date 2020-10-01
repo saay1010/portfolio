@@ -4,10 +4,10 @@
 * Node.js
 
 
-### My favorite coffee :coffee: places in Tel-Aviv:
+### My favorite <img src="images/coffee-to-go.png"> in Tel-Aviv:
 * Mae
   * Montefiore St 3
-* Origem
+* Origem <img src="images/brazil.png">
   * Dizengoff St 203
-* Fika
+* Fika <img src="images/sweden.png">
   * Dizengoff St 267
