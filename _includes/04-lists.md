@@ -5,3 +5,5 @@
   * node
   * express
   * mongoDB
+  
+* Git, GitHub, Visual Studio Code, Heroku, Netlify, Vercel
