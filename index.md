@@ -3,6 +3,9 @@ layout: default
 ---
 
 {% include 02-image.md %}
+
+<br>
+
 {% include 01-name.md %}
 
 <br>
