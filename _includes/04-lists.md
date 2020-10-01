@@ -7,7 +7,7 @@
 ### Best <img src="images/coffee-to-go.png" width="30"> in Tel-Aviv:
 * Mae
   * Montefiore St 3
-* [Origem <img src="images/brazil.png" width="30">]
+* Origem
   * Dizengoff St 203
-* Fika <img src="images/sweden.png" width="30">
+* Fika
   * Dizengoff St 267
