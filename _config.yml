@@ -1,4 +1,4 @@
 title: Welcome to my portfolio!
-theme: null
+theme: jekyll-theme-modernist
 plugins:
   - jemoji
