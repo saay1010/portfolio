@@ -1,8 +1,14 @@
 ## **Skills:**
 * JS, HTML, CSS
 * React
-* Node.js
+* Back-End:
+  * node
+  * express
+  * mongoDB
 
+
+<br>
+<br>
 
 ### Best <img src="images/coffee-to-go.png" width="30"> in Tel-Aviv:
 * Mae
