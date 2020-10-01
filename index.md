@@ -1,9 +1,9 @@
+{% include 02-image.md %}
+{% include 01-name.md %}
+
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
-{% include 02-image.md %}
 
 <br>
 <br>
