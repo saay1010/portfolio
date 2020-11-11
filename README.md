@@ -1,3 +1,3 @@
 # Dafna's portfolio :beetle:
 ## Chek it out!
-https://dafnapundak.github.io/markdown-portfolio/
+https://dafnapundak.github.io/portfolio/
