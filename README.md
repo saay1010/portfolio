@@ -1,3 +1,3 @@
 # Dafna's portfolio :beetle:
-## Chek it out!
+## Check it out!
 https://dafnapundak.github.io/portfolio/
