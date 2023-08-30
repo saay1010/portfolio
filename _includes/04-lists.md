@@ -1,5 +1,5 @@
 ## **Skills:**
-* JS, HTML, CSS
+* Python, HTML, CSS
 * React
 * Back-End:
   * node
