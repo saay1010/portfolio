@@ -19,6 +19,12 @@ layout: default
 
 <br>
 
+* * * * *
+
+{% include 06-projects.md %}
+
+<br>
+
 {% include 03-links.md %}
 
 <br>
