@@ -1,1 +1,1 @@
-A recent bootcamp graduate, looking for a full-stack developer position. After two degrees I made a cereer-changing move and learned to code. **I fell in love with it** and I'm full of ambition to start my new career.
+I am passionate about algorithmic thinking and problem solving. I am a senior @ UCLA and have interned at Arista Networks, and created an internal tool to diagnose easily diagnose and fix network switch bugs. **I fell in love with ** with coding at the age of 12, and not am motivated by the progress in tech every day. 
