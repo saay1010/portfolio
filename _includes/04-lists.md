@@ -1,9 +1,7 @@
 ## **Skills:**
-* Python, HTML, CSS
-* React
-* Back-End:
-  * node
-  * express
-  * mongoDB
-  
-* Git, GitHub, Visual Studio Code, Heroku, Netlify, Vercel
+* Python, Java, C++,JavaScript,mySQL.
+* Machine Learning, AI, Operating Systems
+## **Projects:**
+[TeslaML](https://github.com/saay1010/TeslaML)
+[Nexus](https://github.com/saay1010/Nexus)
+ 
