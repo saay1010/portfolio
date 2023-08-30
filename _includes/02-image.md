@@ -1,1 +1,1 @@
-<img src="images/profilepic.png">
+<img src="images/IMG_3414.JPG">
